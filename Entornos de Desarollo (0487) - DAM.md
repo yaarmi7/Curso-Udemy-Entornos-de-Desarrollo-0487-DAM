@@ -116,3 +116,24 @@ Desarrollar un mini‑proyecto completo:
 * Refactorización
 * Control de versiones
 * Documentación final
+
+## Criterios de Evaluación
+
+### Distribución por Criterios
+
+| Criterio  | Porcentaje |
+| --------- | ---------- |
+| Tareas    | 20%        |
+| Examenes  | 60%        |
+| Proyectos | 20%        |
+
+### Distribución por Contenidos
+
+| Contenido | Porcentaje |
+| --------- | ---------- |
+| Unidad 1  | 16%        |
+| Unidad 2  | 20%        |
+| Unidad 3  | 20%        |
+| Unidad 4  | 16%        |
+| Unidad 5  | 14%        |
+| Unidad 6  | 14%        |
