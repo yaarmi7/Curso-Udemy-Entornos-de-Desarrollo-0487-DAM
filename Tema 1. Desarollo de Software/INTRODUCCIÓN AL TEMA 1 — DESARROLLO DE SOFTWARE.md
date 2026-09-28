@@ -80,3 +80,22 @@ Este conocimiento será imprescindible para abordar los siguientes temas del mó
 | Tarea 6             | 20%        |
 | ------------------- | ---------- |
 | Examén              | 100%       |
+| ------------------- | ---------- |
+| Proyecto final      | 100%       |
+
+Para calcular la nota de la unidad se sumará el 20% de la suma de los resultados de los porcentajes de cada tarea con el 60% de la nota del examen y el 20% de la nota que se obtendrá al final del módulo en el Proyecto Final del módulo.
+
+### Ejemplo Notas
+
+| Contenido a Evaluar | Porcentaje | Notas | Resultado Porcentaje | Total 1 | 2º Porcentaje | Resultado 2º Porcentaje | Total |
+| ------------------- | ---------- | ----- | -------------------- | ------- | ------------- | ----------------------- | ----- |
+| Tarea 1             | 15%        | 9.75  | 1.463                |         |               |                         |       |
+| Tarea 2             | 25%        | 8.35  | 2.088                |         |               |                         |       |
+| Tarea 3             | 10%        | 7.25  | 0.725                |         |               |                         |       |
+| Tarea 4             | 15%        | 10.00 | 1.500                | 7.994   | 20%           | 1.599                   |       |
+| Tarea 5             | 15%        | 5.65  | 0.848                |         |               |                         | 7.28  |
+| Tarea 6             | 20%        | 6.85  | 1.370                |         |               |                         |       |
+| ------------------- | ---------- | ----- | -------------------- | ------- | ------------- | ----------------------- |       |
+| Examén              | 100%       | 7.15  | 7.15                 | 7.15    | 60%           | 4.290                   |       |
+| ------------------- | ---------- | ----- | -------------------- | ------- | ------------- | ----------------------- |       |
+| Proyecto final      | 100%       | 6.95  | 6.95                 | 6.95    | 20%           | 1.390                   |       |
