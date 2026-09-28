@@ -67,3 +67,16 @@ Al finalizar este tema, el estudiante será capaz de:
 * Describir el proceso completo de generación de un ejecutable.
 
 Este conocimiento será imprescindible para abordar los siguientes temas del módulo.
+
+## Criterios de Evaluación
+
+| Contenido a Evaluar | Porcentaje |
+| ------------------- | ---------- | 
+| Tarea 1             | 15%        | 
+| Tarea 2             | 25%        |
+| Tarea 3             | 10%        |
+| Tarea 4             | 15%        |
+| Tarea 5             | 15%        |
+| Tarea 6             | 20%        |
+| ------------------- | ---------- |
+| Examén              | 100%       |
