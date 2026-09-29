@@ -139,3 +139,13 @@ Desarrollar un mini‑proyecto completo:
 | Unidad 6  | 14%        |
 
 Para calcular la nota del módulo: se cogerá la nota de cada unidad, se hará el procentaje que le correspoden a esa unidad y la suma del resultado de los 6 porcentajes representarán la nota del módulo.
+### Ejemplo Notas
+
+| Contenido a Evaluar | Porcentaje | Notas | Resultado Porcentaje | Total | 
+| ------------------- | ---------- | ----- | -------------------- | ----- | 
+| Unidad 1            | 16%        | 9.75  | 1.560                |       |
+| Unidad 2            | 20%        | 8.35  | 1.670                |       |
+| Unidad 3            | 20%        | 7.25  | 1.450                |       | 
+| Unidad 4            | 16%        | 10.00 | 1.600                | 8.030 | 
+| Unidad 5            | 14%        | 5.65  | 0.791                |       | 
+| Unidad 6            | 14%        | 6.85  | 0.959                |       | 
